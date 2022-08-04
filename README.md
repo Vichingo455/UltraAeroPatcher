@@ -7,7 +7,7 @@ to force enable aero theme that worked for me, so I provided it here.
 ## Requirements
 - Windows Vista ONLY
 ## How to install
-Download the latest release and open the setup, then follow the instructions
+Download the [latest release](https://github.com/Vichingo455/UltraAeroPatcher/releases/latest) and open the setup, then follow the instructions
 ## How to compile
 1. Download [CreateInstall free](https://www.createinstall.com/downloads/cif-setup.exe) (portable version [here](https://www.createinstall.com/downloads/cif-setup.zip)) and [all project files](https://github.com/Vichingo455/UltraAeroPatcher/archive/refs/heads/master.zip)
 2. Open the .ci file with CreateInstall free and do all changes
