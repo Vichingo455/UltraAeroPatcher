@@ -1,5 +1,8 @@
 # UltraAeroPatcher
 Force enable Aero on Windows Vista using registry
+## WARNING
+Please use ONLY if you don't have an aero option under the themes even if you installed all VGA drivers.
+
 ## What is this project?
 On my Windows Vista ISO I noticed the absence of the iconic Aero theme. While searching on the net, I discovered a registry way
 to force enable aero theme that worked for me, so I provided it here.
